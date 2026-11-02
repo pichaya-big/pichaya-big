@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi there 👋, I'm Pichaya Santhuenkaew
 
-<!--
-**pichaya-big/pichaya-big** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-stack Web Developer
 
-Here are some ideas to get you started:
+🔭 Passionate about TypeScript, Python, and AI integration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Always building cool side projects and developer tools
+
+🛠️ Tech Stack
+
+Languages: TypeScript, JavaScript, Python, HTML/CSS
+
+Frameworks & Tools: React, Next.js, Node.js, Git, Docker
+
+🚀 Projects & Works
+
+[ชื่อโปรเจกต์ของคุณ]: คำอธิบายสั้นๆ เกี่ยวกับโปรเจกต์เจ๋งๆ ที่คุณทำ (เช่น เว็บแอปพลิเคชันหรือเครื่องมือ AI)
+
+[อีกหนึ่งโปรเจกต์]: อธิบายโปรเจกต์ที่น่าสนใจของคุณ
+
+📬 Connect with me
+
+Website: [ลิงก์เว็บไซต์ของคุณ]
+
+GitHub: github.com/ชื่อ_github_ของคุณ
