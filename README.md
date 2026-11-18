@@ -20,6 +20,6 @@ Frameworks & Tools: React, Next.js, Node.js, Git, Docker
 
 📬 Connect with me
 
-Website: [ลิงก์เว็บไซต์ของคุณ]
+Website: (https://pichaya.dev/)
 
 GitHub: github.com/ชื่อ_github_ของคุณ
